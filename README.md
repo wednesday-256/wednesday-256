@@ -39,7 +39,8 @@ I architect intelligent, cross-platform ecosystems that harmonize high-performan
 
 I specialize in **AI-Native Engineering**. My flagship project demonstrates a full-circle integration of gaming, real-time data, and conversational intelligence:
 
-*   **[Cycull & Woden AI](https://github.com/wednesday-256/llm-flutter-boilerplate):** 
+*   **[Cycull & Woden AI](https://github.com/wednesday-256/llm-flutter-boilerplate)**
+   🔗 **[Live Demo: Experience Woden AI](https://cy-grid.web.app/cull/woden-chat) :**
     *   **Frontend:** A high-performance Flutter Web/Mobile game powered by the Impeller/CanvasKit engine.
     *   **Intelligence:** "Woden," a grounded Oracle utilizing **JSON-based RAG** and Gemini 3 Flash for zero-hallucination lore accuracy.
     *   **Architecture:** Secure serverless orchestration via **Firebase AI Logic**, protected by **App Check** zero-trust validation.
@@ -49,7 +50,7 @@ I specialize in **AI-Native Engineering**. My flagship project demonstrates a fu
 ## 🎯 2026 Focus
 - 🔭 **Current Project:** Optimizing vector-less RAG architectures for sub-100ms mobile latency.
 - 📚 **Learning:** Advanced **Kotlin Multiplatform (KMP)** for shared business logic across iOS/Android/Desktop.
-- ⚡ **Goal:** Engineering local-first experiences using **Small Language Models (SLMs)** for offline AI utility.
+- ⚡ **Goal:** Master Multi-Cloud AI Orchestration—deploying resilient, provider-agnostic agents across AWS and GCP.
 
 ---
 
